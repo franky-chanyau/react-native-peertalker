@@ -1,0 +1,3 @@
+[submodule "Libraries/peertalk"]
+	path = Libraries/peertalk
+	url = https://github.com/franky-chanyau/peertalk.git
